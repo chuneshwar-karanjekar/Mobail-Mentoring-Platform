@@ -1,3 +1,25 @@
+Check Live Web Portal on 
+------------------------
+http://13.201.200.196:8100
+
+Mentors can:
+-------------
+create group sessions
+*choose a meeting platform to host the session
+share the created session with mentees
+edit/delete the created session
+share feedback on the session
+enroll in sessions hosted by other mentors
+
+Mentees can:
+-------------
+enroll in  group sessions
+share the session with other mentees
+share feedback on the session and mentor
+discover mentors via mentor directory
+discover and search for relevant sessions
+request to become a mentor 
+
 CONTENTS OF THIS FILE
 ---------------------
 

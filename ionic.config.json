@@ -1,0 +1,8 @@
+{
+  "name": "MentorED",
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
+  "type": "angular"
+}
